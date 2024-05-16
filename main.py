@@ -88,10 +88,11 @@ area1=[(372,100),(272,93),(133,303),(384,316)]
 area2=[(532,89),(457,89),(5,386),(504,399)]
 area3=[(372,100),(272,93),(133,303),(384,316)]
 area4=[(770,212),(645,209),(275,469),(724,485)]
-loc1="C:/Users/gauth/OneDrive/Desktop/Ptest1/almost there/count/Cam_1_count.txt"
-loc2="C:/Users/gauth/OneDrive/Desktop/Ptest1/almost there/count/Cam_2_count.txt"
-loc3="C:/Users/gauth/OneDrive/Desktop/Ptest1/almost there/count/Cam_3_count.txt"
-loc4="C:/Users/gauth/OneDrive/Desktop/Ptest1/almost there/count/Cam_4_count.txt"
+
+loc1="C:/count/Cam_1_count.txt"  #file location to write count of vehicles in cam1 
+loc2="C:/count/Cam_2_count.tx"   #file location to write count of vehicles in cam2
+loc3="C:/count/Cam_3_count.txt"  #file location to write count of vehicles in cam3
+loc4="C:/count/Cam_4_count.txt"  #file location to write count of vehicles in cam4
 
 n=[1,2,3,4]
 
