@@ -7,7 +7,7 @@ This project proposes an Adaptive Traffic Management System that leverages YOLOv
 
 # Features
 
-Real-Time Traffic Analysis: Utilizes YOLOv8’s object detection capabilities to analyze vehicle density and movement in real time.
-Dynamic Signal Adjustment: Signal timings adapt based on real-time traffic conditions to reduce idle time and enhance flow efficiency.
-Congestion Reduction: Implements strategies to alleviate bottlenecks and reduce congestion on busy roads.
-Enhanced Safety: Improves road safety by monitoring traffic patterns and adjusting signals accordingly.
+* Real-Time Traffic Analysis: Utilizes YOLOv8’s object detection capabilities to analyze vehicle density and movement in real time.
+* Dynamic Signal Adjustment: Signal timings adapt based on real-time traffic conditions to reduce idle time and enhance flow efficiency.
+* Congestion Reduction: Implements strategies to alleviate bottlenecks and reduce congestion on busy roads.
+* Enhanced Safety: Improves road safety by monitoring traffic patterns and adjusting signals accordingly.
